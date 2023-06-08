@@ -1,0 +1,29 @@
+/* styles/login.module.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }  
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #0070f3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
